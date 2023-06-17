@@ -24,5 +24,4 @@ rich core sound great for orchestra produced by stacking 7E and 2C cups together
 #
 You like this project? You want to support me and my work, help me bring new cool stuff to the community? Well you can buy speed official product from [saxophone siam](https://saxophonesiam.com/).
 
-Copyright (c) 2022 Tanatorn Pravalpadd under [CERN-OHL-S](/LICENSE.txt) license.
-#
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />Copyright (c) 2022 Tanatorn Pravalpadd under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
